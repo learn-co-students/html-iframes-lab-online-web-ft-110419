@@ -39,6 +39,7 @@ iframe.
 
 In your browser, head to
 [https://www.google.com/maps](https://www.google.com/maps) and search for a
+
 general location. For instance, a great place to walk dogs in New York City is
 `Central Park, New York, NY`.
 
